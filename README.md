@@ -6,6 +6,8 @@ Research and documentation on the Revopoint Dual Axis Turntable
 - Revopoint FB -> [Post](https://www.facebook.com/groups/revopointgloballaunch/posts/)
 
 ```
+https://github.com/opensourcemanufacturing/Revopoint-Dual-Turntable/blob/main/revoscan-turntable-serial-dump.txt
+
 [GATT CTRLL]
 +CR,STOP;              2B 43 52 2C 53 54 4F 50 3B 
 +CR,TILTSPEED=10.000   2B 43 52 2C 54 49 4C 54 53 50 45 45 44 3D 31 30 2E 30 30 30 
