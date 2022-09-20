@@ -5,6 +5,10 @@ Research and documentation on the Revopoint Dual Axis Turntable
 - Revopoint Forum -> [Post](https://forum.revopoint3d.com/t/reverse-engineer-bluetooth-commands-for-dual-axis-turntable/17504/18)
 - Revopoint FB -> [Post](https://www.facebook.com/groups/revopointgloballaunch/posts/)
 
+Microprocessor details
+- [FR801xH-SDK](https://gitee.com/freqchip/FR801xH-SDK)
+
+
 ```
 https://github.com/opensourcemanufacturing/Revopoint-Dual-Turntable/blob/main/revoscan-turntable-serial-dump.txt
 
