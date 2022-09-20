@@ -30,7 +30,7 @@ It is important that the command;
 +QT,TURNSPEED;        (query current set speed value)
 
 ------------ ROTATE -------------
-+CT,TURNANGLE=360;    (degrees - incremental comand, accepts positive or negative values, total rotation angle is tracked)
++CT,TURNANGLE=360;    (degrees - incremental, + or - values)
 +CT,TURNSPEED=36;     (max speed 36)
 +CT,TOZERO;           (rotates back to boot time zero)
 +CT,STOP;             (stop any ongoing rotation operation)
