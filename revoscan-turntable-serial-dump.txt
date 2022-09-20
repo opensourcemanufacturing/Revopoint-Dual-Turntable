@@ -1,0 +1,1118 @@
+[00][00]€[00][00]€€€[00]€€[00]€€[00]€[00]€€€[00]€€[00]€[00][00]€[00][00]€€€[00]€€[00]€€[00]€[00]€€€[00]€€[00]€[00][00]€[00][00]€€€[00]€€[00]€€[00]€[00]€€€[00]€€[00]€[00][00]€[00][00]€€€[00]€€[00]€€[00]€[00]€€€[00]€€[00]€sys start
+
+aI(20)[SPARAM]: Dev info: cynova zt Copyright (c) 2022, MingGuan
+I(20)[SPARAM]: Dev ver: V202208061110.200.0107
+I(21)[SPARAM]: BLE name:REVO_DUAL_AXIS_TABLE
+I(21)[SPARAM]: BLE name raw:52 45 56 4F 5F 44 55 41 4C 5F 41 58 49 53 5F 54 41 42 4C 45 00 
+timer start
+I(33)[BLE]: all svc added
+
+D(1021)[main]: 1,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+D(2020)[main]: 2,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+D(3020)[main]: 3,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+D(4020)[main]: 4,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+D(5020)[main]: 5,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+D(6020)[main]: 6,SL1:0,SL2:0,KP:0 hxa:0 fya:0
+I(6810)[APP SM]: fy cal start
+I(6811)[APP SM]: fy cal goto mini
+D(7020)[main]: 7,SL1:0,SL2:0,KP:0 hxa:0 fya:-1
+D(8020)[main]: 8,SL1:0,SL2:0,KP:0 hxa:0 fya:-9
+D(9020)[main]: 9,SL1:0,SL2:0,KP:0 hxa:0 fya:-17
+D(10020)[main]: 10,SL1:0,SL2:0,KP:0 hxa:0 fya:-26
+I(10470)[APP SM]: fy cal reach 0 angle
+I(10480)[APP SM]: fy cal goto max
+D(11020)[main]: 11,SL1:0,SL2:0,KP:0 hxa:0 fya:4
+D(12020)[main]: 12,SL1:0,SL2:0,KP:0 hxa:0 fya:12
+D(13020)[main]: 13,SL1:0,SL2:0,KP:0 hxa:0 fya:20
+D(14020)[main]: 14,SL1:0,SL2:0,KP:0 hxa:0 fya:28
+D(15020)[main]: 15,SL1:0,SL2:0,KP:0 hxa:0 fya:36
+D(16020)[main]: 16,SL1:0,SL2:0,KP:0 hxa:0 fya:45
+D(17020)[main]: 17,SL1:0,SL2:0,KP:0 hxa:0 fya:53
+I(17771)[APP SM]: fy to zero ,center:29,curr:59,dif:6773,step: -29,dir:-1,set step:3386
+I(17773)[APP SM]: fy cal reach max 59
+I(17774)[APP]: CAL OK
+D(17775)[BLE]: BLE adv name REVO_DUAL_AXIS_TABLE
+D(18021)[main]: 18,SL1:0,SL2:0,KP:0 hxa:0 fya:57
+
+
+D(4171110)[main]: 4171,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+I(4171562)[BLE]: adv_end,status:0x00
+
+D(4172110)[main]: 4172,SL1:0,SL2:0,KP:1 hxa:0 fya:29
+D(4173110)[main]: 4173,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4174110)[main]: 4174,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4175110)[main]: 4175,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4176110)[main]: 4176,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4177110)[main]: 4177,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4178110)[main]: 4178,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4179110)[main]: 4179,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4180110)[main]: 4180,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4181110)[main]: 4181,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4182110)[main]: 4182,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4183110)[main]: 4183,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4184110)[main]: 4184,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4185110)[main]: 4185,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4186110)[main]: 4186,SL1:0,SL2:0,KP:1 hxa:0 fya:29
+D(4186170)[BLE]: BLE adv name REVO_DUAL_AXIS_TABLE
+addr_type:0
+bond_check_find_devs_idx:8
+I(4186214)[BLE]: slave[0],connect. link_num:1
+
+I(4186217)[BLE]: adv_end,status:0x00
+
+I(4186365)[BLE]: mtu update,conidx=0,mtu=247
+
+D(4187121)[main]: 4187,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+I(4187195)[BLE]: Link[0]param update,interval:6,latency:0,timeout:700
+
+I(4187345)[BLE]: mtu update,conidx=0,mtu=247
+
+I(4187492)[BLE]: Link[0]param update,interval:39,latency:0,timeout:700
+
+D(4188121)[main]: 4188,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4189120)[main]: 4189,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4190120)[main]: 4190,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4191120)[main]: 4191,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4192120)[main]: 4192,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4193120)[main]: 4193,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4193295)[GATT CTRLL]: gatt write data:2B 51 54 2C 54 55 52 4E 53 50 45 45 44 3B 
++DATA=35.7,90.0,2.0;gatt read:+DATA=35.7,90.0,2.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4194121)[main]: 4194,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4194172)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 53 50 45 45 44 3B 
++DATA=6.8,90.0,1.0;gatt read:+DATA=6.8,90.0,1.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4194952)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 53 50 45 45 44 3D 31 30 2E 30 30 30 
+D(4195001)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4195005)[APP SM]: set fy speed,speed = 60,tick=29
++OK;gatt read:+OK;
+D(4195121)[main]: 4195,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4195780)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 4F 5A 45 52 4F 3B 
+D(4195784)[APP SM]: curr_angle:0,dif:0
+I(4195785)[APP SM]: hx to zero ,step = -213811,set step:0,dir = 1,angle:0
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4196121)[main]: 4196,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4197120)[main]: 4197,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4197146)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 4F 5A 45 52 4F 3B 
+I(4197150)[APP SM]: fy to zero ,center:29,curr:29,dif:3387,step: 0,dir:1,set step:0
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4198121)[main]: 4198,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4199120)[main]: 4199,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4200120)[main]: 4200,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4201120)[main]: 4201,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4202120)[main]: 4202,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4203120)[main]: 4203,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4204120)[main]: 4204,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4205120)[main]: 4205,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4206120)[main]: 4206,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4207120)[main]: 4207,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4208120)[main]: 4208,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4209120)[main]: 4209,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4210120)[main]: 4210,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4211120)[main]: 4211,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4212120)[main]: 4212,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4213120)[main]: 4213,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4214120)[main]: 4214,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4215120)[main]: 4215,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4216120)[main]: 4216,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+hxa:50
+D(4217120)[main]: 4217,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4218120)[main]: 4218,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4219120)[main]: 4219,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4220120)[main]: 4220,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4221120)[main]: 4221,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4222120)[main]: 4222,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4223120)[main]: 4223,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4224120)[main]: 4224,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4225120)[main]: 4225,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4226120)[main]: 4226,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4227120)[main]: 4227,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4228120)[main]: 4228,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4229120)[main]: 4229,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4230120)[main]: 4230,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4231120)[main]: 4231,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+hxa
+D(4232120)[main]: 4232,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4233120)[main]: 4233,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4234120)[main]: 4234,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4235120)[main]: 4235,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4236120)[main]: 4236,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4237120)[main]: 4237,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+hxa=50
+D(4238120)[main]: 4238,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4239120)[main]: 4239,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4240120)[main]: 4240,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4241120)[main]: 4241,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4242120)[main]: 4242,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4243120)[main]: 4243,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4244120)[main]: 4244,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4245120)[main]: 4245,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4246120)[main]: 4246,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4247120)[main]: 4247,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4248120)[main]: 4248,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4249120)[main]: 4249,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4250120)[main]: 4250,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4251120)[main]: 4251,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4252120)[main]: 4252,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4253120)[main]: 4253,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4254120)[main]: 4254,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4255120)[main]: 4255,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4256120)[main]: 4256,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4256280)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 4F 5A 45 52 4F 3B 
+D(4256283)[APP SM]: curr_angle:0,dif:0
+I(4256285)[APP SM]: hx to zero ,step = -213811,set step:0,dir = 1,angle:0
++OK;gatt read:+OK;
+gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4257109)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 4F 5A 45 52 4F 3B 
+I(4257112)[APP SM]: fy to zero ,center:29,curr:29,dif:3387,step: 0,dir:1,set step:0
++OK;gatt read:+OK;
+D(4257123)[main]: 4257,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+gatt read:+OK;
+D(4258120)[main]: 4258,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4259120)[main]: 4259,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4260120)[main]: 4260,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4261120)[main]: 4261,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4262120)[main]: 4262,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4263120)[main]: 4263,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4264120)[main]: 4264,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4265120)[main]: 4265,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4266120)[main]: 4266,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4267120)[main]: 4267,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4268120)[main]: 4268,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4269120)[main]: 4269,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4270120)[main]: 4270,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4271120)[main]: 4271,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4272120)[main]: 4272,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4273120)[main]: 4273,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4274120)[main]: 4274,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4275120)[main]: 4275,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4276120)[main]: 4276,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4277120)[main]: 4277,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4278120)[main]: 4278,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4279120)[main]: 4279,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4280120)[main]: 4280,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4280168)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 53 50 45 45 44 3D 31 30 2E 30 30 30 
+D(4280173)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4280177)[APP SM]: set fy speed,speed = 60,tick=29
++OK;gatt read:+OK;
+D(4281121)[main]: 4281,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4281483)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 56 41 4C 55 45 3D 30 2E 30 30 30 30 
+D(4281532)[GATT CTRLL]: gatt write data:30 30 3B 
+I(4281536)[sm handle]: taget_angle:2976,move_angle:0
+I(4281538)[APP SM]: set fy angle move :0
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4282121)[main]: 4282,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4282312)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=0.0;gatt read:+DATA=0.0;
+D(4283121)[main]: 4283,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4283433)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 53 50 45 45 44 3D 33 36 2E 30 30 30 
+D(4283482)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4283486)[APP SM]: set hx speed,speed = 36,tick=20
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4284121)[main]: 4284,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4284262)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 41 4E 47 4C 45 3D 2D 33 36 30 2E 30 
+D(4284312)[GATT CTRLL]: gatt write data:30 30 30 30 30 3B 
+I(4284316)[APP SM]: set hx angle move :-360
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4285121)[main]: 4285,SL1:0,SL2:0,KP:0 hxa:-7 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4285579)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-11.6;gatt read:+DATA=-11.6;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4286121)[main]: 4286,SL1:0,SL2:0,KP:0 hxa:-16 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4286750)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-22.7;gatt read:+DATA=-22.7;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4287131)[main]: 4287,SL1:0,SL2:0,KP:0 hxa:-26 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4287823)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-32.8;gatt read:+DATA=-32.8;
+gatt read:+DATA=-32.8;
+D(4288131)[main]: 4288,SL1:0,SL2:0,KP:0 hxa:-35 fya:29
+D(4289130)[main]: 4289,SL1:0,SL2:0,KP:0 hxa:-45 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4289235)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-46.1;gatt read:+DATA=-46.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4290131)[main]: 4290,SL1:0,SL2:0,KP:0 hxa:-54 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4290307)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-56.3;gatt read:+DATA=-56.3;
+D(4291131)[main]: 4291,SL1:0,SL2:0,KP:0 hxa:-64 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4291430)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-66.9;gatt read:+DATA=-66.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4292141)[main]: 4292,SL1:0,SL2:0,KP:0 hxa:-73 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4292794)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-79.7;gatt read:+DATA=-79.7;
+gatt read:+DATA=-79.7;
+D(4293141)[main]: 4293,SL1:0,SL2:0,KP:0 hxa:-82 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4293866)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-89.8;gatt read:+DATA=-89.8;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4294141)[main]: 4294,SL1:0,SL2:0,KP:0 hxa:-92 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4295037)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-100.9;gatt read:+DATA=-100.9;
+D(4295141)[main]: 4295,SL1:0,SL2:0,KP:0 hxa:-101 fya:29
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4296141)[main]: 4296,SL1:0,SL2:0,KP:0 hxa:-111 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4296403)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-113.8;gatt read:+DATA=-113.8;
+gatt read:+DATA=-113.8;
+D(4297141)[main]: 4297,SL1:0,SL2:0,KP:0 hxa:-120 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4297523)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-124.3;gatt read:+DATA=-124.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4298141)[main]: 4298,SL1:0,SL2:0,KP:0 hxa:-130 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4298645)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-134.9;gatt read:+DATA=-134.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4299141)[main]: 4299,SL1:0,SL2:0,KP:0 hxa:-139 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4300009)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-147.8;gatt read:+DATA=-147.8;
+D(4300151)[main]: 4300,SL1:0,SL2:0,KP:0 hxa:-149 fya:29
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4301082)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-157.9;gatt read:+DATA=-157.9;
+D(4301151)[main]: 4301,SL1:0,SL2:0,KP:0 hxa:-158 fya:29
+D(4302150)[main]: 4302,SL1:0,SL2:0,KP:0 hxa:-167 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4302254)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-169.0;gatt read:+DATA=-169.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4303151)[main]: 4303,SL1:0,SL2:0,KP:0 hxa:-177 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4303568)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-181.4;gatt read:+DATA=-181.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4304152)[main]: 4304,SL1:0,SL2:0,KP:0 hxa:-186 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4304689)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-192.0;gatt read:+DATA=-192.0;
+gatt read:+DATA=-192.0;
+D(4305151)[main]: 4305,SL1:0,SL2:0,KP:0 hxa:-196 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4305859)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-203.0;gatt read:+DATA=-203.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4306161)[main]: 4306,SL1:0,SL2:0,KP:0 hxa:-205 fya:29
+D(4307160)[main]: 4307,SL1:0,SL2:0,KP:0 hxa:-215 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4307272)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-216.3;gatt read:+DATA=-216.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4308161)[main]: 4308,SL1:0,SL2:0,KP:0 hxa:-224 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4308443)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-227.4;gatt read:+DATA=-227.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4309161)[main]: 4309,SL1:0,SL2:0,KP:0 hxa:-234 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4309662)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-238.9;gatt read:+DATA=-238.9;
+D(4310161)[main]: 4310,SL1:0,SL2:0,KP:0 hxa:-243 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4310977)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-251.3;gatt read:+DATA=-251.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4311161)[main]: 4311,SL1:0,SL2:0,KP:0 hxa:-253 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4312148)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-262.3;gatt read:+DATA=-262.3;
+D(4312165)[main]: 4312,SL1:0,SL2:0,KP:0 hxa:-262 fya:29
+gatt read:+DATA=-262.3;
+D(4313161)[main]: 4313,SL1:0,SL2:0,KP:0 hxa:-271 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4313221)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-272.5;gatt read:+DATA=-272.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4314161)[main]: 4314,SL1:0,SL2:0,KP:0 hxa:-281 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4314536)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-284.9;gatt read:+DATA=-284.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4315161)[main]: 4315,SL1:0,SL2:0,KP:0 hxa:-290 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4315657)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-295.5;gatt read:+DATA=-295.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4316161)[main]: 4316,SL1:0,SL2:0,KP:0 hxa:-300 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4316779)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-306.0;gatt read:+DATA=-306.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4317161)[main]: 4317,SL1:0,SL2:0,KP:0 hxa:-309 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4318144)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-318.9;gatt read:+DATA=-318.9;
+D(4318164)[main]: 4318,SL1:0,SL2:0,KP:0 hxa:-319 fya:29
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4319161)[main]: 4319,SL1:0,SL2:0,KP:0 hxa:-328 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4319314)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-330.0;gatt read:+DATA=-330.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4320161)[main]: 4320,SL1:0,SL2:0,KP:0 hxa:-337 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4320583)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-341.9;gatt read:+DATA=-341.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4321161)[main]: 4321,SL1:0,SL2:0,KP:0 hxa:-347 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4321898)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-354.3;gatt read:+DATA=-354.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4322161)[main]: 4322,SL1:0,SL2:0,KP:0 hxa:-356 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4323019)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=0.0;gatt read:+DATA=0.0;
+D(4323161)[main]: 4323,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4324140)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 53 50 45 45 44 3D 31 30 2E 30 30 30 
+D(4324161)[main]: 4324,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4324189)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4324194)[APP SM]: set fy speed,speed = 60,tick=29
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4325161)[main]: 4325,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4325602)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 56 41 4C 55 45 3D 32 30 2E 30 30 30 
+D(4325652)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4325657)[sm handle]: taget_angle:4976,move_angle:-2000
+I(4325659)[APP SM]: set fy angle move :-20
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4326161)[main]: 4326,SL1:0,SL2:0,KP:0 hxa:0 fya:32
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4326432)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=4.3;gatt read:+DATA=4.3;
+D(4327161)[main]: 4327,SL1:0,SL2:0,KP:0 hxa:0 fya:38
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4327553)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=10.7;gatt read:+DATA=10.7;
+D(4328161)[main]: 4328,SL1:0,SL2:0,KP:0 hxa:0 fya:43
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4329113)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=19.7;gatt read:+DATA=19.7;
+D(4329161)[main]: 4329,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+gatt read:+DATA=19.7;
+D(4330160)[main]: 4330,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4330234)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=20.0;gatt read:+DATA=20.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4331161)[main]: 4331,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4331403)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 53 50 45 45 44 3D 33 36 2E 30 30 30 
+D(4331453)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4331457)[APP SM]: set hx speed,speed = 36,tick=20
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4332161)[main]: 4332,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4332866)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 41 4E 47 4C 45 3D 2D 33 36 30 2E 30 
+D(4332915)[GATT CTRLL]: gatt write data:30 30 30 30 30 3B 
+I(4332919)[APP SM]: set hx angle move :-360
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4333161)[main]: 4333,SL1:0,SL2:0,KP:0 hxa:-1 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4333695)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-7.0;gatt read:+DATA=-7.0;
+D(4334161)[main]: 4334,SL1:0,SL2:0,KP:0 hxa:-11 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4334816)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-17.6;gatt read:+DATA=-17.6;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4335161)[main]: 4335,SL1:0,SL2:0,KP:0 hxa:-20 fya:49
+D(4336160)[main]: 4336,SL1:0,SL2:0,KP:0 hxa:-30 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4336327)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-31.9;gatt read:+DATA=-31.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4337161)[main]: 4337,SL1:0,SL2:0,KP:0 hxa:-39 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4337498)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-42.9;gatt read:+DATA=-42.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4338161)[main]: 4338,SL1:0,SL2:0,KP:0 hxa:-49 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4338619)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-53.5;gatt read:+DATA=-53.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4339171)[main]: 4339,SL1:0,SL2:0,KP:0 hxa:-58 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4339886)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-65.4;gatt read:+DATA=-65.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4340171)[main]: 4340,SL1:0,SL2:0,KP:0 hxa:-68 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4341007)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-76.0;gatt read:+DATA=-76.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4341171)[main]: 4341,SL1:0,SL2:0,KP:0 hxa:-77 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4342171)[main]: 4342,SL1:0,SL2:0,KP:0 hxa:-86 fya:49
+D(4342178)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-87.1;gatt read:+DATA=-87.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4343171)[main]: 4343,SL1:0,SL2:0,KP:0 hxa:-96 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4343495)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-99.5;gatt read:+DATA=-99.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4344171)[main]: 4344,SL1:0,SL2:0,KP:0 hxa:-105 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4344664)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-110.5;gatt read:+DATA=-110.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4345171)[main]: 4345,SL1:0,SL2:0,KP:0 hxa:-115 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4345883)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-122.0;gatt read:+DATA=-122.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4346171)[main]: 4346,SL1:0,SL2:0,KP:0 hxa:-124 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4347171)[main]: 4347,SL1:0,SL2:0,KP:0 hxa:-134 fya:49
+D(4347249)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-134.9;gatt read:+DATA=-134.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4348171)[main]: 4348,SL1:0,SL2:0,KP:0 hxa:-143 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4348320)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-145.0;gatt read:+DATA=-145.0;
+D(4349171)[main]: 4349,SL1:0,SL2:0,KP:0 hxa:-153 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4349444)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-155.6;gatt read:+DATA=-155.6;
+gatt read:+DATA=-155.6;
+D(4350171)[main]: 4350,SL1:0,SL2:0,KP:0 hxa:-162 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4350856)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-168.9;gatt read:+DATA=-168.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4351171)[main]: 4351,SL1:0,SL2:0,KP:0 hxa:-171 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4351928)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-179.1;gatt read:+DATA=-179.1;
+gatt read:+DATA=-179.1;
+D(4352171)[main]: 4352,SL1:0,SL2:0,KP:0 hxa:-181 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4353050)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-189.6;gatt read:+DATA=-189.6;
+gatt read:+DATA=-189.6;
+D(4353181)[main]: 4353,SL1:0,SL2:0,KP:0 hxa:-190 fya:49
+D(4354180)[main]: 4354,SL1:0,SL2:0,KP:0 hxa:-200 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4354415)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-202.5;gatt read:+DATA=-202.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4355181)[main]: 4355,SL1:0,SL2:0,KP:0 hxa:-209 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4355535)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-213.1;gatt read:+DATA=-213.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4356181)[main]: 4356,SL1:0,SL2:0,KP:0 hxa:-219 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4356657)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-223.7;gatt read:+DATA=-223.7;
+gatt read:+DATA=-223.7;
+D(4357181)[main]: 4357,SL1:0,SL2:0,KP:0 hxa:-228 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4358023)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-236.6;gatt read:+DATA=-236.6;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4358181)[main]: 4358,SL1:0,SL2:0,KP:0 hxa:-238 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4359095)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-246.7;gatt read:+DATA=-246.7;
+D(4359181)[main]: 4359,SL1:0,SL2:0,KP:0 hxa:-247 fya:49
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4360181)[main]: 4360,SL1:0,SL2:0,KP:0 hxa:-256 fya:49
+D(4360265)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-257.7;gatt read:+DATA=-257.7;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4361181)[main]: 4361,SL1:0,SL2:0,KP:0 hxa:-266 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4361677)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-271.1;gatt read:+DATA=-271.1;
+D(4362181)[main]: 4362,SL1:0,SL2:0,KP:0 hxa:-275 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4362800)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-281.6;gatt read:+DATA=-281.6;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4363191)[main]: 4363,SL1:0,SL2:0,KP:0 hxa:-285 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4363920)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-292.2;gatt read:+DATA=-292.2;
+D(4364191)[main]: 4364,SL1:0,SL2:0,KP:0 hxa:-294 fya:49
+D(4365190)[main]: 4365,SL1:0,SL2:0,KP:0 hxa:-304 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4365335)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-305.6;gatt read:+DATA=-305.6;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4366191)[main]: 4366,SL1:0,SL2:0,KP:0 hxa:-313 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4366456)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-316.1;gatt read:+DATA=-316.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4367191)[main]: 4367,SL1:0,SL2:0,KP:0 hxa:-323 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4367528)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-326.3;gatt read:+DATA=-326.3;
+gatt read:+DATA=-326.3;
+D(4368191)[main]: 4368,SL1:0,SL2:0,KP:0 hxa:-332 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4368893)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-339.1;gatt read:+DATA=-339.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4369191)[main]: 4369,SL1:0,SL2:0,KP:0 hxa:-341 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4369965)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-349.3;gatt read:+DATA=-349.3;
+gatt read:+DATA=-349.3;
+D(4370191)[main]: 4370,SL1:0,SL2:0,KP:0 hxa:-351 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4371086)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-359.8;gatt read:+DATA=-359.8;
+D(4371191)[main]: 4371,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4372190)[main]: 4372,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4372403)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=0.0;gatt read:+DATA=0.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4373191)[main]: 4373,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4373573)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 53 50 45 45 44 3D 31 30 2E 30 30 30 
+D(4373576)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4373581)[APP SM]: set fy speed,speed = 60,tick=29
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4374191)[main]: 4374,SL1:0,SL2:0,KP:0 hxa:0 fya:49
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4374353)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 49 4C 54 56 41 4C 55 45 3D 2D 32 30 2E 30 30 
+D(4374356)[GATT CTRLL]: gatt write data:30 30 30 30 3B 
+I(4374360)[sm handle]: taget_angle:976,move_angle:4000
+I(4374362)[APP SM]: set fy angle move :40
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4375191)[main]: 4375,SL1:0,SL2:0,KP:0 hxa:0 fya:45
+D(4375280)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=14.9;gatt read:+DATA=14.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4376191)[main]: 4376,SL1:0,SL2:0,KP:0 hxa:0 fya:39
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4376546)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=7.6;gatt read:+DATA=7.6;
+D(4377191)[main]: 4377,SL1:0,SL2:0,KP:0 hxa:0 fya:33
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4377717)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=0.9;gatt read:+DATA=0.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4378191)[main]: 4378,SL1:0,SL2:0,KP:0 hxa:0 fya:27
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4378790)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=-5.3;gatt read:+DATA=-5.3;
+gatt read:+DATA=-5.3;
+D(4379201)[main]: 4379,SL1:0,SL2:0,KP:0 hxa:0 fya:22
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4380105)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=-12.9;gatt read:+DATA=-12.9;
+D(4380201)[main]: 4380,SL1:0,SL2:0,KP:0 hxa:0 fya:16
+Notification status changed
+Char4 ccc: 0x0 0x0 
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4381201)[main]: 4381,SL1:0,SL2:0,KP:0 hxa:0 fya:10
+D(4381227)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=-19.3;gatt read:+DATA=-19.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4382201)[main]: 4382,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4382347)[GATT CTRLL]: gatt write data:2B 51 52 2C 54 49 4C 54 56 41 4C 55 45 3B 
++DATA=-20.0;gatt read:+DATA=-20.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4383201)[main]: 4383,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4383712)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 53 50 45 45 44 3D 33 36 2E 30 30 30 
+D(4383763)[GATT CTRLL]: gatt write data:30 30 30 3B 
+I(4383767)[APP SM]: set hx speed,speed = 36,tick=20
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4384201)[main]: 4384,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4384543)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 55 52 4E 41 4E 47 4C 45 3D 2D 33 36 30 2E 30 
+D(4384546)[GATT CTRLL]: gatt write data:30 30 30 30 30 3B 
+I(4384550)[APP SM]: set hx angle move :-360
++OK;gatt read:+OK;
+gatt read:+OK;
+D(4385201)[main]: 4385,SL1:0,SL2:0,KP:0 hxa:-5 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4385323)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-7.0;gatt read:+DATA=-7.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4386201)[main]: 4386,SL1:0,SL2:0,KP:0 hxa:-15 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4386540)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-18.5;gatt read:+DATA=-18.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4387201)[main]: 4387,SL1:0,SL2:0,KP:0 hxa:-24 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4387808)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-30.5;gatt read:+DATA=-30.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4388201)[main]: 4388,SL1:0,SL2:0,KP:0 hxa:-34 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4388929)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-41.0;gatt read:+DATA=-41.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4389201)[main]: 4389,SL1:0,SL2:0,KP:0 hxa:-43 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4390050)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-51.6;gatt read:+DATA=-51.6;
+gatt read:+DATA=-51.6;
+D(4390201)[main]: 4390,SL1:0,SL2:0,KP:0 hxa:-53 fya:9
+D(4391200)[main]: 4391,SL1:0,SL2:0,KP:0 hxa:-62 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4391416)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-64.5;gatt read:+DATA=-64.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4392201)[main]: 4392,SL1:0,SL2:0,KP:0 hxa:-71 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4392537)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-75.1;gatt read:+DATA=-75.1;
+gatt read:+DATA=-75.1;
+D(4393201)[main]: 4393,SL1:0,SL2:0,KP:0 hxa:-81 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4393658)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-85.7;gatt read:+DATA=-85.7;
+gatt read:+DATA=-85.7;
+D(4394201)[main]: 4394,SL1:0,SL2:0,KP:0 hxa:-90 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4394974)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-98.1;gatt read:+DATA=-98.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4395201)[main]: 4395,SL1:0,SL2:0,KP:0 hxa:-100 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4396096)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-108.7;gatt read:+DATA=-108.7;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4396201)[main]: 4396,SL1:0,SL2:0,KP:0 hxa:-109 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4397200)[main]: 4397,SL1:0,SL2:0,KP:0 hxa:-119 fya:9
+D(4397217)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-119.3;gatt read:+DATA=-119.3;
+gatt read:+DATA=-119.3;
+D(4398201)[main]: 4398,SL1:0,SL2:0,KP:0 hxa:-128 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4398584)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-132.1;gatt read:+DATA=-132.1;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4399201)[main]: 4399,SL1:0,SL2:0,KP:0 hxa:-137 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4399703)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-142.7;gatt read:+DATA=-142.7;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4400201)[main]: 4400,SL1:0,SL2:0,KP:0 hxa:-147 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4400824)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-153.3;gatt read:+DATA=-153.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4401201)[main]: 4401,SL1:0,SL2:0,KP:0 hxa:-156 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4402141)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-165.7;gatt read:+DATA=-165.7;
+D(4402201)[main]: 4402,SL1:0,SL2:0,KP:0 hxa:-166 fya:9
+gatt read:+DATA=-165.7;
+D(4403201)[main]: 4403,SL1:0,SL2:0,KP:0 hxa:-175 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4403263)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-176.3;gatt read:+DATA=-176.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4404201)[main]: 4404,SL1:0,SL2:0,KP:0 hxa:-185 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4404383)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-186.9;gatt read:+DATA=-186.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4405201)[main]: 4405,SL1:0,SL2:0,KP:0 hxa:-194 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4405748)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-199.8;gatt read:+DATA=-199.8;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4406201)[main]: 4406,SL1:0,SL2:0,KP:0 hxa:-203 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4406870)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-210.3;gatt read:+DATA=-210.3;
+gatt read:+DATA=-210.3;
+D(4407211)[main]: 4407,SL1:0,SL2:0,KP:0 hxa:-213 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4407992)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-220.9;gatt read:+DATA=-220.9;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4408211)[main]: 4408,SL1:0,SL2:0,KP:0 hxa:-222 fya:9
+D(4409210)[main]: 4409,SL1:0,SL2:0,KP:0 hxa:-232 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4409307)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-233.3;gatt read:+DATA=-233.3;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4410211)[main]: 4410,SL1:0,SL2:0,KP:0 hxa:-241 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4410427)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-243.9;gatt read:+DATA=-243.9;
+D(4411211)[main]: 4411,SL1:0,SL2:0,KP:0 hxa:-251 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4411549)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-254.5;gatt read:+DATA=-254.5;
+D(4412211)[main]: 4412,SL1:0,SL2:0,KP:0 hxa:-260 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4412915)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-267.4;gatt read:+DATA=-267.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4413211)[main]: 4413,SL1:0,SL2:0,KP:0 hxa:-270 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4413987)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-277.5;gatt read:+DATA=-277.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4414211)[main]: 4414,SL1:0,SL2:0,KP:0 hxa:-279 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4415157)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-288.5;gatt read:+DATA=-288.5;
+D(4415211)[main]: 4415,SL1:0,SL2:0,KP:0 hxa:-289 fya:9
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4416211)[main]: 4416,SL1:0,SL2:0,KP:0 hxa:-298 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4416523)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-301.4;gatt read:+DATA=-301.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4417211)[main]: 4417,SL1:0,SL2:0,KP:0 hxa:-307 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4417790)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-313.4;gatt read:+DATA=-313.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4418211)[main]: 4418,SL1:0,SL2:0,KP:0 hxa:-317 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4418862)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-323.5;gatt read:+DATA=-323.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4419211)[main]: 4419,SL1:0,SL2:0,KP:0 hxa:-326 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4420211)[main]: 4420,SL1:0,SL2:0,KP:0 hxa:-336 fya:9
+D(4420228)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-336.4;gatt read:+DATA=-336.4;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4421211)[main]: 4421,SL1:0,SL2:0,KP:0 hxa:-345 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4421349)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-347.0;gatt read:+DATA=-347.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4422211)[main]: 4422,SL1:0,SL2:0,KP:0 hxa:-355 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4422469)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=-357.5;gatt read:+DATA=-357.5;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4423211)[main]: 4423,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4423834)[GATT CTRLL]: gatt write data:2B 51 54 2C 43 48 41 4E 47 45 41 4E 47 4C 45 3B 
++DATA=0.0;gatt read:+DATA=0.0;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4424211)[main]: 4424,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4424955)[GATT CTRLL]: gatt write data:2B 43 54 2C 53 54 4F 50 3B 
++OK;gatt read:+OK;
+D(4425211)[main]: 4425,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4425735)[GATT CTRLL]: gatt write data:2B 43 52 2C 53 54 4F 50 3B 
++OK;gatt read:+OK;
+gatt read:+OK;
+D(4426211)[main]: 4426,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4426565)[GATT CTRLL]: gatt write data:2B 43 54 2C 54 4F 5A 45 52 4F 3B 
+D(4426568)[APP SM]: curr_angle:0,dif:0
+I(4426569)[APP SM]: hx to zero ,step = -320716,set step:0,dir = 1,angle:0
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4427211)[main]: 4427,SL1:0,SL2:0,KP:0 hxa:0 fya:9
+Notification status changed
+Char4 ccc: 0x1 0x0 
+D(4427880)[GATT CTRLL]: gatt write data:2B 43 52 2C 54 4F 5A 45 52 4F 3B 
+I(4427884)[APP SM]: fy to zero ,center:29,curr:9,dif:1111,step: 20,dir:1,set step:2276
++OK;gatt read:+OK;
+Notification status changed
+Char4 ccc: 0x0 0x0 
+D(4428211)[main]: 4428,SL1:0,SL2:0,KP:0 hxa:0 fya:11
+D(4429210)[main]: 4429,SL1:0,SL2:0,KP:0 hxa:0 fya:17
+D(4430210)[main]: 4430,SL1:0,SL2:0,KP:0 hxa:0 fya:22
+D(4431210)[main]: 4431,SL1:0,SL2:0,KP:0 hxa:0 fya:28
+D(4432210)[main]: 4432,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4433210)[main]: 4433,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4434210)[main]: 4434,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4435210)[main]: 4435,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4436210)[main]: 4436,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4437210)[main]: 4437,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4438210)[main]: 4438,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4439210)[main]: 4439,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4440210)[main]: 4440,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4441210)[main]: 4441,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4442210)[main]: 4442,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4443210)[main]: 4443,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4444210)[main]: 4444,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4445210)[main]: 4445,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4446210)[main]: 4446,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4447210)[main]: 4447,SL1:0,SL2:0,KP:0 hxa:0 fya:29
+D(4448210)[main]: 4448,SL1:0,SL2:0,KP:0 hxa:0 fya:29
