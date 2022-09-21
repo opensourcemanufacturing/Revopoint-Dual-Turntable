@@ -9,10 +9,10 @@ Microprocessor details
 - [FR801xH-SDK](https://gitee.com/freqchip/FR801xH-SDK)
 
 Android Bluetooth Serial APP:
-(https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
+- (https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
 
 Android Bluetooth Serial APP Macro template:
-(https://downgit.github.io/#/home?url=https://github.com/opensourcemanufacturing/Revopoint-Dual-Turntable/blob/main/revopoint_tt_serial_bluetooth_terminal_cfg.txt)
+- (https://downgit.github.io/#/home?url=https://github.com/opensourcemanufacturing/Revopoint-Dual-Turntable/blob/main/revopoint_tt_serial_bluetooth_terminal_cfg.txt)
 
 ```
 [CONFIRMED WORKING COMMANDS]
