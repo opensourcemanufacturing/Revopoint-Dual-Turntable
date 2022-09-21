@@ -26,8 +26,8 @@ It is important that the command;
 +CR,TOZERO;           (tilts back to boot time zero)
 +CR,STOP;             (stop any ongoing rotation operation)
 
-+QR,TILTSPEED;        (query current tracked rotation value)      
-+QT,TURNSPEED;        (query current set speed value)
++QR,TILTANGLE;        (query current tracked tilt value)      
++QR,TILTSPEED;        (query current set tilt speed value)
 
 ------------ ROTATE -------------
 +CT,TURNANGLE=360;    (degrees - incremental, + or - values)
@@ -36,7 +36,7 @@ It is important that the command;
 +CT,STOP;             (stop any ongoing rotation operation)
 
 +QT,CHANGEANGLE;      (query current tracked rotation value)
-+QT,TURNSPEED;        (query current set speed value)
++QT,TURNSPEED;        (query current set rotation speed value)
 
 ----------------------------------
 ```
