@@ -1,0 +1,119 @@
+{
+  "package": "de.kai_morich.serial_bluetooth_terminal",
+  "date": " 20220921-040353",
+  "config": {
+    "pref_auto_scroll": true,
+    "pref_char_delay": "0",
+    "pref_charset": "UTF-8",
+    "pref_clear_send": false,
+    "pref_device_address": "C5:30:35:39:59:79",
+    "pref_device_le": true,
+    "pref_device_name": "REVO_DUAL_AXIS_TABLE",
+    "pref_device_tab": 1,
+    "pref_font_family": "0",
+    "pref_font_size": "14",
+    "pref_keep_screen_on": false,
+    "pref_line_delay": "0",
+    
+    "pref_m201_action": 0,
+    "pref_m201_xode": 0,
+    "pref_m201_name": "RSTOP",
+    "pref_m201_value": "+CT,STOP;",
+    
+    "pref_m202_action": 0,
+    "pref_m202_xode": 0,
+    "pref_m202_name": "R+360",
+    "pref_m202_value": "+CT,TURNANGLE=360;",
+    
+    "pref_m203_action": 0,
+    "pref_m203_xode": 0,
+    "pref_m203_name": "R?R°",
+    "pref_m203_value": "+QT,CHANGEANGLE;",
+    
+    "pref_m204_action": 0,
+    "pref_m204_xode": 0,
+    "pref_m204_name": "T+10°",
+    "pref_m204_value": "+CR,TILTVALUE=10;",
+    
+    "pref_m205_action": 0,
+    "pref_m205_xode": 0,
+    "pref_m205_name": "T+30°",
+    "pref_m205_value": "+CR,TILTVALUE=30;",
+    
+    "pref_m206_action": 0,
+    "pref_m206_xode": 0,
+    "pref_m206_name": "TSTOP",
+    "pref_m206_value": "+CR,STOP;",
+    
+    "pref_m101_action": 2,
+    "pref_m101_xode": 0,
+    "pref_m101_name": "R%SPD",
+    "pref_m101_value": "+CT,TURNSPEED=35.64;",
+    
+    "pref_m102_action": 0,
+    "pref_m102_xode": 0,
+    "pref_m102_name": "R+10",
+    "pref_m102_value": "+CT,TURNANGLE=10;",
+    
+    "pref_m103_action": 0,
+    "pref_m103_xode": 0,
+    "pref_m103_name": "R?SPD",
+    "pref_m103_value": "+QT,TURNSPEED;",
+    
+    "pref_m104_action": 0,
+    "pref_m104_xode": 0,
+    "pref_m104_name": "T-10°",
+    "pref_m104_value": "+CR,TILTVALUE=-10;",
+    
+    "pref_m105_action": 0,
+    "pref_m105_xode": 0,
+    "pref_m105_name": "T-30",
+    "pref_m105_value": "+CR,TILTVALUE=-30;",
+    
+    "pref_m106_action": 2,
+    "pref_m106_xode": 0,
+    "pref_m106_name": "T%SPD",
+    "pref_m106_value": "+CR,TILTSPEED=6.62;",
+    
+    "pref_m1_action": 2,
+    "pref_m1_xode": 0,
+    "pref_m1_name": "R%VAL",
+    "pref_m1_value": "+CT,TURNANGLE=;",
+    
+    "pref_m2_action": 0,
+    "pref_m2_xode": 0,
+    "pref_m2_name": "R#0",
+    "pref_m2_value": "+CT,TOZERO;",
+    
+    "pref_m3_action": 0,
+    "pref_m3_xode": 0,
+    "pref_m3_name": "T?T°",
+    "pref_m3_value": "+QR,TILTANGLE;",
+    
+    "pref_m4_action": 0,
+    "pref_m4_xode": 0,
+    "pref_m4_name": "T#0",
+    "pref_m4_value": "+CR,TOZERO;",
+    
+    "pref_m5_action": 0,
+    "pref_m5_xode": 0,
+    "pref_m5_name": "T?SPD",
+    "pref_m5_value": "+QR,TILTSPEED;",
+    
+    "pref_m6_action": 2,
+    "pref_m6_xode": 0,
+    "pref_m6_name": "T%VAL",
+    "pref_m6_value": "+CR,TILTVALUE=;",
+    
+    "pref_macro_rows": "3",
+    "pref_receive_buffer_size": "10000",
+    "pref_receive_display_mode": "0",
+    "pref_receive_newline": "CR+LF",
+    "pref_send_display_mode": "0",
+    "pref_send_newline": "Auto",
+    "pref_show_send": true,
+    "pref_show_status": true,
+    "pref_show_timestamp": true,
+    "pref_timestamp_format": "HH:mm:ss.SSS"
+  }
+}
