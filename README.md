@@ -22,7 +22,7 @@ It is important that the command;
 
 ------------- TILT -------------
 +CR,TILTVALUE=10;     (degrees - min -30 max 30)
-+CR,TILTSPEED=10;     (max speed 36)
++CR,TILTSPEED=10;     (max speed 6.62, larger values = lower speed)
 +CR,TOZERO;           (tilts back to boot time zero)
 +CR,STOP;             (stop any ongoing rotation operation)
 
@@ -31,7 +31,7 @@ It is important that the command;
 
 ------------ ROTATE -------------
 +CT,TURNANGLE=360;    (degrees - incremental, + or - values)
-+CT,TURNSPEED=36;     (max speed 36)
++CT,TURNSPEED=36;     (max speed 35.64, larger values = lower speed)
 +CT,TOZERO;           (rotates back to boot time zero)
 +CT,STOP;             (stop any ongoing rotation operation)
 
